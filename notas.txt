@@ -1,0 +1,8 @@
+CREACIÓN DE PROYECTO: 
+npx create-expo-app@latest <nombre> --template blank
+
+PARA CORRER EN WEB:
+npx expo install react-dom react-native-web @expo/metro-runtime
+
+INSTALAR NAVIGATOR
+npx expo install @react-navigation/native @react-navigation/native-stack
